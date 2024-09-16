@@ -12,7 +12,10 @@ public class Hello {
     System.out.println("Hello Symphony Veloz");
     System.out.println("Hello Andrew Pierson");
     System.out.println("Hello Noah McMullan");
+    System.out.println("Helo Derick Tante");
     System.out.println("Helloo Jonathan");
+    System.out.println("Hello Jay Johnson");
+    System.out.println("Hello Lawrence Taylor");
     System.out.println("Hello Samantha Morales");
   }
 }
