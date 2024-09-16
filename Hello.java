@@ -9,6 +9,6 @@ public class Hello {
     System.out.println("Hello Caleb Wiyninger");
     System.out.println("Hello Andrew Pierson");
     System.out.println("Hello Noah McMullan");
-
+    System.out.println("Hello Samantha Morales");
   }
 }
